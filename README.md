@@ -10,8 +10,8 @@ Benefits of using JsonPowerDB:<br>
 Release History (release of your JsonPowerDB related code on Github): Soon.
 
 
-Scope of functionalities:Can replace commercial databases very soon if more efficiency is provided 
-Examples of use: It can be used wuth any web/desktop app to store data in organised way. 
-Project status  :Done (ALL the apis are created and fetched).
-Sources:Internet 
+Scope of functionalities:Can replace commercial databases very soon if more efficiency is provided <br>
+Examples of use: It can be used wuth any web/desktop app to store data in organised way. <br>
+Project status  :Done (ALL the apis are created and fetched).<br>
+Sources:Internet <br>
 Other information:NO
