@@ -1,11 +1,12 @@
 # emp_management
 Title of the Project:  Employee Management System
 Description: In this project , we have learnt about how efficient is JSONDB for storing data.
-Benefits of using JsonPowerDB:
+Benefits of using JsonPowerDB:<br>
  1. Data Storage is simplier.
  2. ease of inserting data is good.
  3. server side connection is easy to establish with the database
  4. highly secure
+ <br>
 Release History (release of your JsonPowerDB related code on Github): Soon.
 
 
